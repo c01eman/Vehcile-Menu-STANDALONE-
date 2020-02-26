@@ -1,2 +1,2 @@
-# Vehcile-Menu-STANDALONE-
-Vehcile Menu ( STANDALONE ) 
+# Addon-Vehicle-Menu
+Addon Vehicle Menu
